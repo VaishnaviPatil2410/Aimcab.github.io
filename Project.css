@@ -1,0 +1,70 @@
+.navigation
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    
+    background: transparent;
+}
+.navmenu{
+    position: absolute;
+    right: 0px;
+}
+.menuname
+{
+    color: black;
+    font-size: 20px;
+    font-family: Cambria;
+    margin: 5px;
+}
+.carouseldiv
+{
+    margin-top: 90px;
+}
+.home-right{
+    width: 70%;
+}
+/* .main-div{
+    background-image: url("https://aimcab.com/images/hero-bg2.png");
+} */
+#div-home{
+    background-image: url("https://aimcab.com/images/hero-bg2.png");
+}
+.marg-form{
+    margin-bottom: 20px;
+}
+.divid{
+    margin-top: 80px;
+    margin-left: 50px;
+    
+    background-color: rgb(247, 247, 247);
+    height: 400px;
+    width: 90%;
+    border-radius: 3px;
+    box-shadow: 10px 10px 10px rgb(126, 132, 187);
+}
+.register-from{
+    border-radius: 3px;
+    box-shadow: 10px 10px 10px rgb(79, 81, 92);
+}
+#vid{
+    margin-left: 30px;
+    padding-top: 40px;
+}
+#disc{
+    padding-top: 40px;
+    font-size: 20px;
+}
+h4{
+    background-color: rgb(255, 196, 0);
+    
+    height: 50px;
+    text-align: center;
+}
+.text-dark{
+    font-weight: bolder;
+}
+.butt:hover{
+    background-color: rgb(255, 196, 0);
+}
